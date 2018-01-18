@@ -1,2 +1,3 @@
 # JavaScript-References-VS-Copying
-Created using JavaScript References VS Copying (JavaScript30)
+
+- Some examples showing the difference bewtween references and copying.
